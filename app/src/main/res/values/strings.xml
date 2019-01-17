@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gary</string>
+    <string name="please_check_network">Please check your network</string>
+    <string name="no_preview_available">No preview available</string>
+    <string name="retry">Retry</string>
+    <string name="search_itunes">Search iTunes</string>
+</resources>
